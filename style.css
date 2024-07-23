@@ -77,8 +77,8 @@ img.wolf {
 
 /*========part two===========*/
 .info {
-    /*border:2px solid #f504d5; */
-    padding: 12px 400px;
+   /* border:2px solid #f504d5; */ 
+    padding: 12px 200px;
     }
 .some_infos{
         font-size: 36px;
@@ -91,22 +91,25 @@ img.wolf {
     display: flex;
     gap:68px;
     justify-content: center;
+    /*border:2px solid #f504d5; */
 }
 .card1{
-    width: 200px;
+    width: 400px;
+   /* border:2px solid hsl(261, 97%, 49%); */
 
 }
 .boxes{
     height: 200px; 
-    width: 200px;
+    /*width: 400px; */
    /* border-radius: 25px;
     border:2px solid #3882f6; */
     margin-bottom: 12px; 
 }
 img{
     height: 200px; 
-    width: 200px;
+    width: 300px; 
     object-fit: fill;
+    /*border:1px solid hsl(212, 93%, 61%); */
 }
 .mtexts{
     text-align: center;
