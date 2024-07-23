@@ -6,7 +6,7 @@ body{
 }
 .header {
     display: flex;
-    border:2px solid blue;
+    /*border:2px solid blue;*/
     flex-grow: 1; 
     flex-direction: column; 
     padding: 12px 300px;
@@ -99,9 +99,9 @@ img.wolf {
 .boxes{
     height: 200px; 
     width: 200px;
-    border-radius: 25px;
-    border:2px solid #3882f6;
-    margin-bottom: 12px;
+   /* border-radius: 25px;
+    border:2px solid #3882f6; */
+    margin-bottom: 12px; 
 }
 img{
     height: 200px; 
